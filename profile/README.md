@@ -1,7 +1,7 @@
 
 # OurFreeWP
 
-Welcome to the* **OurFreeWP** *GitHub organization!
+Welcome to the **OurFreeWP** GitHub organization!
 
 ## 📂 Active Projects
 
